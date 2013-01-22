@@ -1,0 +1,19 @@
+Testsuite: com.venturis.UserIntegrationTests
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 0.53 sec
+------------- Standard Output ---------------
+--Output from testFirstSaveEver--
+--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testFollowing--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testFirstSaveEver--
+--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testFollowing--
+------------- ---------------- ---------------
+
+Testcase: testFirstSaveEver took 0.38 sec
+Testcase: testSaveAndUpdate took 0.02 sec
+Testcase: testSaveThenDelete took 0.09 sec
+Testcase: testFollowing took 0.03 sec

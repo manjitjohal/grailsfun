@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Venturis-Two-PC" name="com.venturis.UserIntegrationTests" tests="4" time="0.53" timestamp="2013-01-20T18:19:01">
+  <properties />
+  <testcase classname="com.venturis.UserIntegrationTests" name="testFirstSaveEver" time="0.38" />
+  <testcase classname="com.venturis.UserIntegrationTests" name="testSaveAndUpdate" time="0.02" />
+  <testcase classname="com.venturis.UserIntegrationTests" name="testSaveThenDelete" time="0.09" />
+  <testcase classname="com.venturis.UserIntegrationTests" name="testFollowing" time="0.03" />
+  <system-out><![CDATA[--Output from testFirstSaveEver--
+--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testFollowing--
+]]></system-out>
+  <system-err><![CDATA[--Output from testFirstSaveEver--
+--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testFollowing--
+]]></system-err>
+</testsuite>
